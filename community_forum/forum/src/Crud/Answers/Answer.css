@@ -1,0 +1,16 @@
+.answer
+{
+    width: 90%;
+    backdrop-filter:"revert";
+    background-color:  rgba(255, 255, 255, 0.6);
+    padding: 40px;
+    border-radius:15px;
+    margin-left: 70px;
+    margin-right: 300px;
+    margin-top: 40px;
+    height: 480px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px; 
+    overflow: auto;
+    text-align: left;
+     
+}
